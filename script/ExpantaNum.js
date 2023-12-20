@@ -119,6 +119,7 @@
    *  toNumber
    *  toPower                   pow
    *  toString
+   * hexate                     hexa
    */
   R.ZERO=0;
   R.ONE=1;

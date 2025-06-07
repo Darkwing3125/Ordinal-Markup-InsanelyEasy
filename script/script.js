@@ -23,14 +23,14 @@ let clickCoolDown = 0;
 let infinityButtonText = 0;
 let game;
 const factorShiftCosts = [
-  200,
-  1000,
-  10000,
-  350000,
-  1e12,
-  1e21,
-  1e100,
-  1.095e272,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
+  1,
   Infinity
 ];
 const factorCostExp = [2, 2, 2, 3, 3, 6, 30, 100];
@@ -63,16 +63,16 @@ let cardinalLoop = ExpantaNum(0);
 /* eslint-disable */
 let collapseAnimation = 0;
 /* eslint-enable */
-const iupCosts = [1e5, 1e3, 1e9, 5e15, 2e22, 4e23, 1e19, 1e25, 1e27];
+const iupCosts = [1, 1, 1, 1, 1, 3, 19, 25, 26];
 const dupCosts = [
   5,
-  1000,
-  9,
-  Infinity,
-  Infinity,
-  Infinity,
-  Infinity,
-  Infinity,
+  10,
+  21,
+  42,
+  700,
+  1111,
+  1555,
+  66666,
   Infinity
 ];
 const baselessMile = [5**75,5**90,5**115,5**120,Infinity]

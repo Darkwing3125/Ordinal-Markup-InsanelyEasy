@@ -36,7 +36,7 @@ const achieveData = [
       "Reach the ordinal Ψ(Ω^Ω^Ω)=LVO",
       "Exceed the BHO limit",
       "Reach the ordinal Ψ(ε(Ω2)^Ω^2)",
-      "Reach the ordinal Ψ(ε(Ω2)^Ω^Ω2))
+      "Reach the ordinal Ψ(ε(Ω2)^Ω^Ω2))",
     ]
   },
   {
